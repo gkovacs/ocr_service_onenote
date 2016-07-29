@@ -1,0 +1,6 @@
+c:\users\geza\documents\visual studio 2010\Projects\OCRService\OCRService\bin\Debug\OCRService.exe
+c:\users\geza\documents\visual studio 2010\Projects\OCRService\OCRService\bin\Debug\OCRService.pdb
+c:\users\geza\documents\visual studio 2010\Projects\OCRService\OCRService\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\geza\documents\visual studio 2010\Projects\OCRService\OCRService\obj\x86\Debug\OCRService.exe
+c:\users\geza\documents\visual studio 2010\Projects\OCRService\OCRService\obj\x86\Debug\OCRService.pdb
+C:\Users\geza\Documents\Visual Studio 2010\Projects\OCRService\OCRService\obj\x86\Debug\OCRService.csproj.ResolveComReference.cache
